@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 244 52" width="244" height="52" role="img" aria-label="Visit the website">
+<linearGradient id="i" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f1ede5"/><stop offset="1" stop-color="#ddd7cb"/></linearGradient>
+<rect x=".5" y=".5" width="243" height="51" rx="25.5" fill="url(#i)" stroke="#a49c8c"/>
+<text x="122" y="31.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#161412">Visit the website</text>
+</svg>

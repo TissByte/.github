@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" width="200" height="48" role="img" aria-label="Projects">
+<defs><linearGradient id="rim" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fbe9c0" stop-opacity=".95"/><stop offset=".5" stop-color="#fbe9c0" stop-opacity=".35"/><stop offset="1" stop-color="#fbe9c0" stop-opacity=".95"/></linearGradient><linearGradient id="face" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#211e1a"/><stop offset="1" stop-color="#161412"/></linearGradient></defs><rect x=".5" y=".5" width="199" height="47" rx="23.5" fill="none" stroke="#a8915f" stroke-opacity=".45"/>
+<rect x="4.5" y="4.5" width="191" height="39" rx="19.5" fill="url(#face)" stroke="#a8915f"/><rect x="4.5" y="4.5" width="191" height="39" rx="19.5" fill="none" stroke="url(#rim)"/>
+<path d="M33 20l3.5 3.5-3.5 3.5-3.5-3.5z" fill="#fbe9c0" opacity=".85"/><path d="M167 20l3.5 3.5-3.5 3.5-3.5-3.5z" fill="#fbe9c0" opacity=".85"/>
+<text x="102.4" y="29" text-anchor="middle" font-family="'New York', ui-serif, 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif" font-size="14" font-weight="500" letter-spacing="4.8" fill="#fbe9c0">PROJECTS</text>
+</svg>
